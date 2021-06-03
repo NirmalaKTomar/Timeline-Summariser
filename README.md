@@ -8,4 +8,4 @@ News Articles- docs.zip
 
 main.py- int_main_ file. 
 
-Methods implementation- clustering.py,Datewise.py,rouge.py
+dist(Methods implemented)- clustering.py,Datewise.py,rouge.py
